@@ -1,0 +1,18 @@
+/* Align full form centrally */
+.divClassForSection
+{ 
+    width:50%; 
+    margin-left:auto; 
+    margin-right:auto; 
+    padding:5px;
+}
+.divClassForButton
+{ 
+    width:150px;
+    margin:2%;
+}
+.elementSpace
+{
+    margin:10px;
+}
+
